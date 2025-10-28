@@ -3,11 +3,7 @@ package dao;
 import models.Employee;
 
 import java.util.List;
-
-import models.Employee;
 import models.Job;
-
-import java.util.List;
 import java.util.Map;
 
 public interface EmployeeDao {
